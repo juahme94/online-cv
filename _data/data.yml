@@ -121,20 +121,12 @@ publications:
     title: Certification
     intro: |
     papers:
-      - title: Exam AZ-900: Microsoft Azure Fundamentals
-        link: "#"
-        authors: 
-        conference: "#"
+      - title: "Exam AZ-900 Microsoft Azure Fundamentals"
 
-      - title: "Exam AZ-103: Microsoft Azure Administrator"
-        link: "#"
-        authors: 
-        conference: "#"
-
+      - title: "Exam AZ-103 Microsoft Azure Administrator"
+      
       - title: Microsoft Windows Server 2016 Training
-        link: "#"
-        authors: 
-        conference: "#"
+
 
 skills:
     title: Skills &amp; Proficiency
