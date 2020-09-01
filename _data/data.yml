@@ -33,7 +33,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: FPS Games
         link:
 
       - item: Photography
@@ -53,9 +53,9 @@ education:
       time: 2012 - 2016
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: 
+      time: January 2017 - Present
+      company: Microsoft, Bangalore
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -68,54 +68,32 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Support Engineer
+      time: May 2015 to August 2016
+      company: Lenovo, Bangalore 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Supervise and Co-ordinate with Lenovo Global key accounts IT Admins to resolve technical issues related to Lenovo ThinkPad line of Business.
+        
+          - Perform routine network and PC installation, troubleshoot, maintain, and resolve any related problems.
+          - Test and repair computer hardware, system software and applications.
+          - Approval of hardware and systems warranty.
+          - Communicate necessary information to field techs and assist in resolving systems issues.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
+      - title: Created Bot using Microsoft Power Virtual Agents
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Created bot of internal network team to help and resolve customer issues in most efficient way."
 
-      - title: DevStudio
+      - title: PowerBI Report 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Created a PowerBI report to identified team matrices and CSAT to be identified the trend (weekly and monthly)."
 
-      - title: Tempo
+      - title: Microsoft flow 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Created a Microsoft Flow to help the team with automation and creation of ADO and ICM request."
 
 publications:
     title: Certification
@@ -123,7 +101,7 @@ publications:
     papers:
       - title: "Exam AZ-900 Microsoft Azure Fundamentals"
 
-      - title: "Exam AZ-103 Microsoft Azure Administrator"
+      - title: "Exam AZ-104 Microsoft Azure Administrator"
       
       - title: Microsoft Windows Server 2016 Training
 
@@ -132,10 +110,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Windows Server 2016
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Azure AD and VMS
         level: 98%
 
       - name: Angular
@@ -144,7 +122,7 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
       - name: Sketch & Photoshop
