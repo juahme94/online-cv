@@ -83,7 +83,7 @@ projects:
     intro: >
 
     assignments:
-      - title: Created Bot using Microsoft Power Virtual Agents
+      - title: Bot using Microsoft Power Virtual Agents
         link: "#hook"
         tagline: "Created bot of internal network team to help and resolve customer issues in most efficient way."
 
